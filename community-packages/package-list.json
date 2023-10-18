@@ -263,6 +263,10 @@
     {
       "repoSlug": "threefoldtech/pulumi-threefold",
       "schemaFile": "provider/cmd/pulumi-resource-threefold/schema.json"
+    },
+    {
+      "repoSlug": "nextpart/pulumi-powerdns-native",
+      "schemaFile": "provider/cmd/pulumi-resource-powerdns/schema.json"
     }
   ]
 }
